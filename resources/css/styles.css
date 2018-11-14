@@ -1,0 +1,115 @@
+body {
+background-color: DarkSlateGrey;
+color: AliceBlue;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+.fon {
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: 40px;
+}
+
+.he {
+  font-weight: bold;
+  font-style: normal;
+}
+
+.image {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.image2 {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.shorthair {
+background-color: PapayaWhip;
+color: Black;
+width: 1000px;
+margin: 20px auto;
+}
+
+.brumese {
+background-color: PeachPuff;
+color: Black;
+width: 1000px;
+margin: 20px auto;
+
+}
+
+.exotic {
+background-color: MistyRose;
+color: Black;
+width: 1000px;
+margin: 20px auto;
+}
+
+.american {
+  color: #FFF;
+  background-color: #FFA07A;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #FFA07A;
+  border-radius: 5px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.br {
+  color: #FFF;
+  background-color: #F08080;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #F08080;
+  border-radius: 5px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.exo {
+  color: #FFF;
+  background-color: #FFB6C1;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #FFB6C1;
+  border-radius: 5px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.short {
+font-style: italic;
+color: DarkSlateGrey;
+}
+.um {
+font-style: italic;
+color: DarkSlateGrey;
+}
+
+.tic {
+  font-style: italic;
+  color: DarkSlateGrey;
+}
+
+.nav {
+  text-align: center;
+  background-color: DarkGrey;
+}
+
+.page2cats {
+  background-color: Cornsilk;
+  color: Black;
+  width: 1000px;
+  margin: 20px auto;
+}
